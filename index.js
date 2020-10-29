@@ -57,7 +57,7 @@ client.on("message", (message) => {
     if(message.content.startsWith(config.prefix + "throw")) {
         var parts = message.content.split(' ');
         if(parts.length == 1)
-            message.channel.send("**" + message.author.username + "** thew " + gif.throw[Math.floor(Math.random()*gif.throw.length)] + ".");
+            message.channel.send("**" + message.author.username + "** threw " + gif.throw[Math.floor(Math.random()*gif.throw.length)] + ".");
         if(parts.length == 2)
             message.channel.send("**" + message.author.username + "** threw " + gif.throw[Math.floor(Math.random()*gif.throw.length)] + " at " + parts[1] + ". ouch.");
     }

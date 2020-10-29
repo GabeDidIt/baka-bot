@@ -116,5 +116,30 @@
         "https://cdn.discordapp.com/attachments/731795566639448184/771235468859277342/pat3.gif",
         "https://cdn.discordapp.com/attachments/731795566639448184/771235473287938058/pat4.gif",
         "https://cdn.discordapp.com/attachments/731795566639448184/771236737518272532/pat5.gif"
+    ],
+
+    "cry": [
+        "https://cdn.discordapp.com/attachments/731795566639448184/771241926443270154/cry.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771241978809548800/cry1.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771242046471143455/cry2.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771242090310795264/cry3.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771242138033061918/cry4.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771242220782878730/cry5.gif"
+    ],
+
+    "throw": [
+        "a shoe :athletic_shoe:",
+        "a bus :bus:",
+        "an alarm clock :alarm_clock:",
+        "a hammer :hammer:",
+        "a fire extinguisher :fire_extinguisher:",
+        "a guitar :guitar:",
+        "a tombstone :headstone:",
+        "a flashlight :flashlight:",
+        "a pineapple :pineapple:",
+        "a unicorn :unicorn:",
+        "a box :box:",
+        "a planet :ringed_planet:",
+        "a tooth :tooth:"
     ]
 }

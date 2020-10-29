@@ -27,8 +27,11 @@ client.on("message", (message) => {
     if(message.content.startsWith(config.prefix + "blush"))
         message.channel.send(gif.blush[Math.floor(Math.random()*gif.blush.length)]);
 
+    if(message.content.startsWith(config.prefix + "bite"))
+        message.channel.send(gif.bite[Math.floor(Math.random()*gif.bite.length)]);
+
     if(message.content.startsWith(config.prefix + "pickle")) 
-        message.channel.send("Your pickle is **" + Math.floor(Math.random()*11) + " inches** long!");
+        message.channel.send("Your pickle is **" + Math.floor(Math.random()*16) + " inches** long!");
 
     if(message.content.startsWith(config.prefix + "coinflip")) 
         message.channel.send("**" + message.author.username + "** flipped **" + (Math.random() >= 0.5 ? "heads" : "tails") + "**!");

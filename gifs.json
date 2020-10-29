@@ -57,5 +57,30 @@
         "https://cdn.discordapp.com/attachments/731795566639448184/771207246004748311/bite3.gif",
         "https://cdn.discordapp.com/attachments/731795566639448184/771207282016911380/bite4.gif",
         "https://cdn.discordapp.com/attachments/731795566639448184/771207371564253205/bite5.gif"
+    ],
+
+    "slap": [
+        "https://cdn.discordapp.com/attachments/731795566639448184/771224256448823306/slap.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771224283267596308/slap1.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771224321161953310/slap3.0.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771224673517961266/slap5.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771224901499092992/slap4.0.gif"
+    ],
+
+    "woop": [
+        "https://cdn.discordapp.com/attachments/731795566639448184/771225769845981224/WOOP.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771225792944275476/WOOP1.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771225815555637258/WOOP2.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771225831581679616/WOOP4.gif"
+    ],
+
+    "poke": [
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227032113381386/Poke.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227067245264947/Poke1.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227093634777114/Poke3.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227163298496522/Poke4.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227200203653180/Poke2.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227240372764672/Poke5.gif",
+        "https://cdn.discordapp.com/attachments/731795566639448184/771227278956691486/Poke6.gif"
     ]
 }

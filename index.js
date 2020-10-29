@@ -41,7 +41,7 @@ client.on("message", (message) => {
         "```\n" +
         "Prefix: " + config.prefix + "\n\n" +
         "Gif Commands: \n" +
-        "cuddle, hug, kill, dance, dab, blush, bite, slap, woop, poke, nom, lick, nani, pat, throw\n\n" + 
+        "cuddle, hug, kill, dance, dab, blush, bite\n\n" + 
         "pickle: Measures your pickle ;)\n\n" + 
         "coinflip: Flips a coin!" +
         "```"

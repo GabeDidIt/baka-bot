@@ -45,6 +45,12 @@ client.on("message", (message) => {
     if(message.content.startsWith(config.prefix + "lick"))
         message.channel.send(gif.lick[Math.floor(Math.random()*gif.lick.length)]);
 
+    if(message.content.startsWith(config.prefix + "nani"))
+        message.channel.send(gif.nani[Math.floor(Math.random()*gif.nani.length)]);
+
+    if(message.content.startsWith(config.prefix + "pat"))
+        message.channel.send(gif.pat[Math.floor(Math.random()*gif.pat.length)]);
+
     if(message.content.startsWith(config.prefix + "pickle")) 
         message.channel.send("Your pickle is **" + Math.floor(Math.random()*16) + " inches** long!");
 
@@ -56,7 +62,7 @@ client.on("message", (message) => {
         "```\n" +
         "Prefix: " + config.prefix + "\n\n" +
         "Gif Commands: \n" +
-        "cuddle, hug, kill, dance, dab, blush, bite, slap, woop, poke, nom, lick\n\n" + 
+        "cuddle, hug, kill, dance, dab, blush, bite, slap, woop, poke, nom, lick, nani, pat\n\n" + 
         "pickle: Measures your pickle ;)\n\n" + 
         "coinflip: Flips a coin!" +
         "```"
